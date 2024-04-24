@@ -1,10 +1,10 @@
 # DIABETES-PATIENT-DATASET
 
-Overview
+**Overview**
 
 This dataset contains information about patients diagnosed with diabetes. It includes various attributes such as age, gender, body mass index (BMI), Patient No, and measurements related to diabetes such as High-Density Lipoprotein, low-density lipoprotein
 
-Content
+**Content**
 
 diabetes.csv: CSV file containing the dataset with the following columns:
 
@@ -19,7 +19,7 @@ BMI: Body Mass Index (kg/m^2)
 High-Density Lipoprotein: It is often referred to as "good cholesterol" because it helps remove excess cholesterol from the bloodstream, carrying it back to the liver where it can be broken down and removed from the body.
 
 
-Usage
+**Usage**
 
 This dataset can be used for various purposes including:
 
